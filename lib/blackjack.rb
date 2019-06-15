@@ -37,6 +37,9 @@ end
 
 def hit?
   # code hit? here
+  if deal_card == h 
+    deal_card
+  
 end
 
 def invalid_command
